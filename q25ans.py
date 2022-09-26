@@ -12,7 +12,7 @@ def print_rangoli(size):
     # for i in range(65, stoper):
     #     print(chr(65 + i), end=" ")
     # your code goes here
-
+  
 if __name__ == '__main__':
     n = int(input())
     print_rangoli(n)
